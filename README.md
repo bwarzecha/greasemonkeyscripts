@@ -1,0 +1,2 @@
+# greasemonkeyscripts
+Random GreaseMonkey scripts
